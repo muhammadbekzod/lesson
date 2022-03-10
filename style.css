@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+
+    border: 1px solid red;
+}
+.boxcon{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.bgboxcon{
+    border: 1px solid red;
+    width: 600px;
+    height: 600px;
+}
+.coffeecon{
+    border: 1px solid green;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
